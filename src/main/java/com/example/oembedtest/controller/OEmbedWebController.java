@@ -1,4 +1,4 @@
-package com.example.oembedtest;
+package com.example.oembedtest.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

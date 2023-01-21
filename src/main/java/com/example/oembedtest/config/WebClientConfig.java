@@ -1,4 +1,4 @@
-package com.example.oembedtest;
+package com.example.oembedtest.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

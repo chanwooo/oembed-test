@@ -1,5 +1,6 @@
-package com.example.oembedtest;
+package com.example.oembedtest.controller;
 
+import com.example.oembedtest.service.OEmbedService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

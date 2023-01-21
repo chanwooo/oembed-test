@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OembedTestApplication {
+public class OEmbedTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OembedTestApplication.class, args);
+        SpringApplication.run(OEmbedTestApplication.class, args);
     }
 
 }
